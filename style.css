@@ -62,7 +62,7 @@ a{
 }
 
 .button:hover{
-  color:black;
+  color:#000080;
   border: solid black 3px;
 }
 
