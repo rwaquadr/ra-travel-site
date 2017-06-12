@@ -1,0 +1,49 @@
+.jumbotron{
+  background: url("http://images.huffingtonpost.com/2016-03-22-1458681390-6092959-cuba_tourism_photo_of_a_street.jpg") no-repeat center center;
+  background-size: cover;
+  margin: 0;
+}
+
+.navbar{
+  margin: 0;
+}
+
+a{
+  text-transform: uppercase;
+}
+
+h1{
+  text-align: center;
+  padding-top: 200px;
+  
+}
+
+h2{
+  color: white;
+}
+
+h4{
+  color: white;
+}
+
+p{
+  color: white;
+}
+
+.button{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.thumbnail {
+    padding: 0 0 15px 0;
+    border: none;
+    border-radius: 0;
+    background-color: black;
+}
+
+.thumbnail img {
+    width: 350px;
+    height: 300px;
+    margin-bottom: 10px;
+}
